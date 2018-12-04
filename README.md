@@ -8,7 +8,7 @@
 - http://skberry.ch/
 - http://teodolci.ch/
 - http://mailysdut.ch/
-- https://www.davidehrens.com/
+- https://davidehrens.com/
 - http://makob.ch/
 - http://slmn.ch/
 - http://nelsonft.com/
@@ -36,3 +36,12 @@
 - http://zoeschwyzer.com/
 - http://gonçalovieiramachado.online
 - http://wolxbird.tk/
+
+## Sites créées avant 2017
+
+* Guillaume Pavia: http://guillaumepavia.ch/
+* Johanna Pleinevaux: http://jopleinevaux.ch/
+* Anahé Marchand: http://anahe.ch/
+* Guillaume Besson: http://guillaumebesson.ch/
+* Benoît Ebener: http://tbebener.tumblr.com/
+* Lisette Nicod: http://lisettenicod.ch/
