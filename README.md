@@ -5,7 +5,6 @@
 16 sites créés en automne 2018.
 
 - http://aantille.com
-- http://amandinelievre.com
 - http://antoinelugon.com
 - http://christelle-epars.ch
 - http://ciliamayor.ch
